@@ -1,0 +1,10 @@
+# Ignore build, reports, and IDE files
+target/
+*.log
+*.class
+*.iml
+.idea/
+.vscode/
+test-output/
+serenity/
+surefire-reports/
